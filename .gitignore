@@ -2,7 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+results/**
+results_test/**
+masks/**
+patches/**
+ddi_patches_metadata.csv
 # C extensions
 *.so
 
